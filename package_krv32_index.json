@@ -15,9 +15,9 @@
           "version": "1.0.1",
           "category": "Contributed",
           "url": "https://gitlab.com/riscv-vega/vega-bsp/-/archive/03e39748dc0083f20c8922ca029231dc27120be7/vega-bsp-03e39748dc0083f20c8922ca029231dc27120be7.tar.bz2",
-          "archiveFileName": "vega-bsp-1.0.1.tar.bz2",
-          "checksum": "SHA-256:8fbbf2f2fd3d40559b8fb04d588dadc58ad68c8c7de01a6b186b96ca12402a12",
-          "size": "442787",
+          "archiveFileName": "krv32_bsp.tar.gz",
+          "checksum": "SHA-256:71b93899cd78dbff27789f087c3516ef44e2723d3fda0575b994e411c29e2b35",
+          "size": "27621",
           "boards": [
             {"name": "Basys3"},
             {"name": "Nexys4 DDR"},
