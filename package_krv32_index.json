@@ -12,7 +12,7 @@
                 {
                     "category": "KRV32",
                     "name": "KRV32 Soft RISC-V SoC on FPGA",
-                    "version": "1.0.1",
+                    "version": "1.0.2",
                     "url": "https://gitlab.com/riscv-vega/vega-bsp/-/archive/03e39748dc0083f20c8922ca029231dc27120be7/vega-bsp-03e39748dc0083f20c8922ca029231dc27120be7.tar.bz2",
                     "checksum": "SHA-256:8fbbf2f2fd3d40559b8fb04d588dadc58ad68c8c7de01a6b186b96ca12402a12",
                     "archiveFileName": "vega-bsp-03e39748dc0083f20c8922ca029231dc27120be7.tar.bz2",
