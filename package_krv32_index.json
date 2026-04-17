@@ -19,14 +19,14 @@
           "checksum": "SHA-256:8fbbf2f2fd3d40559b8fb04d588dadc58ad68c8c7de01a6b186b96ca12402a12",
           "size": "442787",
           "boards": [
-            {"name": "ARIES v2"},
-            {"name": "ARIES v3"},
-            {"name": "ARIES Micro"}
+            {"name": "Basys3"},
+            {"name": "Nexys4 DDR"},
+            {"name": "Arty A7"}
           ],
           "toolsDependencies": [
             {
               "packager": "krv32",
-              "name": "riscv-vega-elf-gcc",
+              "name": "riscv64-vega-elf-gcc",
               "version": "10.1.0"
             }
           ]
