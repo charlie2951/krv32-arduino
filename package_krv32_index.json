@@ -1,0 +1,66 @@
+{
+    "packages": [
+        {
+            "name": "krv32",
+            "maintainer": "Subir Maity",
+            "websiteURL": "https://github.com/charlie2951/krv32/wiki/",
+            "email": "",
+            "help": {
+                "online": "https://github.com/charlie2951/krv32-arduino/blob/main/README.md"
+            },
+            "platforms": [
+                {
+                    "category": "KRV32",
+                    "name": "KRV32 Soft RISC-V SoC on FPGA",
+                    "version": "1.0.1",
+                    "url": "https://gitlab.com/riscv-vega/vega-bsp/-/archive/03e39748dc0083f20c8922ca029231dc27120be7/vega-bsp-03e39748dc0083f20c8922ca029231dc27120be7.tar.bz2",
+                    "checksum": "SHA-256:8fbbf2f2fd3d40559b8fb04d588dadc58ad68c8c7de01a6b186b96ca12402a12",
+                    "archiveFileName": "vega-bsp-03e39748dc0083f20c8922ca029231dc27120be7.tar.bz2",
+                    "size": "442787",
+                    "architecture": "riscv",
+                    "boards": [
+                        {"name": "ARTY A7"},
+                        {"name": "NEXYS4 DDR"},
+                        {"name": "BASYS3"}
+                    ],
+                    "toolsDependencies": [
+                        {
+                            "packager": "krv32",
+                            "version": "001",
+                            "name": "riscv64-vega-elf-gcc"
+                        }
+                    ]
+                }
+            ],
+            "tools": [
+                {
+                    "version": "001",
+                    "name": "riscv64-vega-elf-gcc",
+                    "systems": [
+                        {
+                            "url": "https://gitlab.com/riscv-vega/vega-tools/-/archive/main/vega-tools-main.tar.bz2",
+                            "checksum": "SHA-256:e2a7a87e60f8c21870405315887a4c67a1f90bc5d4ae71ca53e1d056a9510c32",
+                            "host": "x86_64-pc-linux-gnu",
+                            "archiveFileName": "vega-tools-main.tar.bz2",
+                            "size": "395389010"
+                        },
+                        {
+                            "url": "https://gitlab.com/riscv-vega/vega-tools-windows/-/archive/main/vega-tools-windows-main.tar.bz2",
+                            "checksum": "SHA-256:18c05e99265ed13cb07fe53fe1acefcc08bc9fe6c1223b72077306c306161b0d",
+                            "host": "i686-mingw32",
+                            "archiveFileName": "vega-tools-windows-main.tar.bz2",
+                            "size": "73681978"
+                        },
+                        {
+                            "url": "https://gitlab.com/riscv-vega/vega-tools-windows/-/archive/main/vega-tools-windows-main.tar.bz2",
+                            "checksum": "SHA-256:18c05e99265ed13cb07fe53fe1acefcc08bc9fe6c1223b72077306c306161b0d",
+                            "host": "x86_64-mingw32",
+                            "archiveFileName": "vega-tools-windows-main.tar.bz2",
+                            "size": "73681978"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
