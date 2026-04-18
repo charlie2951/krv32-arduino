@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=charlie2951&color=brightgreen)
 # KRV32-Arduino
 Arduino port of KRV32 RISCV Soft SoC
 ## Board manager URL
