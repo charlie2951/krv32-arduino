@@ -34,7 +34,7 @@
       ],
       "tools": [
         {
-          "name": "riscv-vega-elf-gcc",
+          "name": "riscv64-vega-elf-gcc",
           "version": "10.1.0",
           "systems": [
             {
