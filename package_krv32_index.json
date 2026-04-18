@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/charlie2951/krv32-arduino/blob/7e6f801afa4ae26bdbf2d7cf9d9e9a2a65751408/krv32_bsp/krv32_bsp_v101.tar.gz",
           "archiveFileName": "krv32_bsp_v101.tar.gz",
-          "checksum": "SHA-256:095f59e5299a6f1b92f2a8eb2ffebb041f53d1ad12f52fad24f627e1867990db",
-          "size": "221590",
+          "checksum": "SHA-256:095F59E5299A6F1B92F2A8EB2FFEBB041F53D1AD12F52FAD24F627E1867990DB",
+          "size": "29330",
           "boards": [
             {"name": "Basys3"},
             {"name": "Nexys4 DDR"},
