@@ -11,7 +11,7 @@
       "platforms": [
         {
           "name": "KRV32 Soft RISC-V SoC on FPGA",
-          "architecture": "riscv",
+          "architecture": "krv32",
           "version": "1.0.1",
           "category": "Contributed",
           "url": "https://github.com/charlie2951/krv32-arduino/blob/7e6f801afa4ae26bdbf2d7cf9d9e9a2a65751408/krv32_bsp/krv32_bsp_v101.tar.gz",
