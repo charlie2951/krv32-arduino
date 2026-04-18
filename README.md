@@ -10,3 +10,5 @@ https://raw.githubusercontent.com/charlie2951/krv32-arduino/refs/heads/main/pack
 4. Now, you can explore built-in examples given under `Examples` section, under keyword prefix `krv32_`.
 5. To upload a sketch, turn on `BOOT` mode. Arduino IDE will automatically compile and upload sketch. When uploading is done, disable `BOOT` mode and `Reset` the board to start execution.
    
+>[!CAUTION]
+>**Limited support. Only the provided libraries are supported. External libraries not supported in this version.** 
