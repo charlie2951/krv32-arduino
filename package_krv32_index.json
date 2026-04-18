@@ -14,7 +14,7 @@
           "architecture": "krv32",
           "version": "1.0.1",
           "category": "Contributed",
-          "url": "https://github.com/charlie2951/krv32-arduino/blob/55bc013d45bd11853bf9b1f289f3ec6996bc68f2/krv32_bsp/krv32_bsp_v101.zip",
+          "url": "https://github.com/charlie2951/krv32-arduino/releases/download/v1.0.1/krv32_bsp_v101.zip",
           "archiveFileName": "krv32_bsp_v101.zip",
           "checksum": "SHA-256: 699EC8C2C9BEB2A05D26CF59CF6760906B53A3BB5908DF0A32FF4ECAC2C70A61",
           "size": "54383",
