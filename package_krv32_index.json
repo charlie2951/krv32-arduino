@@ -38,7 +38,7 @@
           "category": "Contributed",
           "url": "https://github.com/charlie2951/krv32-arduino/releases/download/v1.0.2/krv32_bsp_v102.zip",
           "archiveFileName": "krv32_bsp_v102.zip",
-          "checksum": "SHA256:7ac759d42b077d7a514fa8fc53429884e4376b6a3d55948ab74e7faec848757b",
+          "checksum": "SHA-256:7AC759D42B077D7A514FA8FC53429884E4376B6A3D55948AB74E7FAEC848757B",
           "size": "75412",
           "boards": [
             {"name": "Basys3"},
