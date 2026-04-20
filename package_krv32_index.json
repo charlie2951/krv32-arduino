@@ -30,6 +30,28 @@
               "version": "10.1.0"
             }
           ]
+        },
+        {
+          "name": "KRV32 Soft RISC-V SoC on FPGA",
+          "architecture": "krv32",
+          "version": "1.0.2",
+          "category": "Contributed",
+          "url": "https://github.com/charlie2951/krv32-arduino/releases/download/v1.0.2/krv32_bsp_v102.zip",
+          "archiveFileName": "krv32_bsp_v102.zip",
+          "checksum": "SHA256:7ac759d42b077d7a514fa8fc53429884e4376b6a3d55948ab74e7faec848757b",
+          "size": "75412",
+          "boards": [
+            {"name": "Basys3"},
+            {"name": "Nexys4 DDR"},
+            {"name": "Arty A7"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "krv32",
+              "name": "riscv64-vega-elf-gcc",
+              "version": "10.1.0"
+            }
+          ]
         }
       ],
       "tools": [
