@@ -2,7 +2,7 @@
 # KRV32-Arduino
 Arduino port of KRV32 RISCV Soft SoC
 ## Board manager URL
-1. Make sure that you have burned the correct MCS file into your board.
+1. Make sure that you have burned the correct MCS file into your board. Download your board firmware `MCS` [from here](https://github.com/charlie2951/krv32/tree/v5.0/mcs).
 2. Paste this board manager URL into your Arduino IDE under `File-> Preferences` followed by `Additional board manager url`.
 ```
 https://raw.githubusercontent.com/charlie2951/krv32-arduino/refs/heads/main/package_krv32_index.json
