@@ -12,4 +12,4 @@ https://raw.githubusercontent.com/charlie2951/krv32-arduino/refs/heads/main/pack
 5. To upload a sketch, turn on `BOOT` mode. Arduino IDE will automatically compile and upload sketch. When uploading is done, disable `BOOT` mode and `Reset` the board to start execution.
    
 >[!CAUTION]
->**Limited support. Only the provided libraries are supported. External libraries not supported in this version.** 
+>**Limited support. Only the provided libraries are supported. Due to limited memory spaces, external libraries are not supported in this version.** 
