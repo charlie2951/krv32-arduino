@@ -8,8 +8,9 @@ Arduino port of KRV32 RISCV Soft SoC
 https://raw.githubusercontent.com/charlie2951/krv32-arduino/refs/heads/main/package_krv32_index.json
 ```
 3. Now go to `Board manager` and search `krv32`. You will find board named as `krv32 soft RISC-V Soc...`. Install the board. It may take some time to install and download the toolchain.
-4. Now, you can explore built-in examples given under `Examples` section, under keyword prefix `krv32_`.
-5. To upload a sketch, turn on `BOOT` mode. Arduino IDE will automatically compile and upload sketch. When uploading is done, disable `BOOT` mode and `Reset` the board to start execution.
+4. Now select your board from `Board` field. Search using `Nexys4DDR` or `Basys3` or `ArtyA7` and select the appropriate board.
+5. Now, you can explore built-in examples given under `Examples` section, under keyword prefix `krv32_`.
+6. To upload a sketch, turn on `BOOT` mode. Arduino IDE will automatically compile and upload sketch. When uploading is done, disable `BOOT` mode and `Reset` the board to start execution.
    
 >[!CAUTION]
 >**Limited support. Only the provided libraries are supported. Due to limited memory spaces, external libraries are not supported in this version.** 
